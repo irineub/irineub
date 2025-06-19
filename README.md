@@ -66,9 +66,9 @@ Sou um desenvolvedor backend com foco em Inteligência Artificial, entregando ap
 
 ### 🤝 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Irineu%20Brito-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/irineu-brito)
-[![Portfólio](https://img.shields.io/badge/Portfólio-irineubrito.tech-0A0A0A?style=for-the-badge&logo=github)](https://irineubrito.tech)
-[![YouTube](https://img.shields.io/badge/YouTube-@irineudev-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@irineudev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Irineu%20Brito-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/irineu-brito) <br>
+[![Portfólio](https://img.shields.io/badge/Portfólio-irineubrito.tech-0A0A0A?style=for-the-badge&logo=github)](https://irineubrito.tech)  <br>
+[![YouTube](https://img.shields.io/badge/YouTube-@irineudev-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@irineudev) 
 
 ---
 
