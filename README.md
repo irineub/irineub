@@ -8,23 +8,10 @@ Sou um desenvolvedor backend com foco em Inteligência Artificial, entregando ap
 
 📬 Fale comigo: [irineutech2025@gmail.com](mailto:irineutech2025@gmail.com) | [LinkedIn](https://www.linkedin.com/in/irineu-brito) | [Portfólio](https://irineubrito.tech)
 
----
-
-<p align="left">
-  <a href="https://www.youtube.com/@irineudev?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Inscreva-se no canal" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCzBF_gA-IRpXwPiJZ6kQvIA?color=%23FF0000&label=INSCREVA-SE&logo=video&logoColor=white&style=for-the-badge&labelColor=E60023"/>
-  </a>
-  <a href="https://www.youtube.com/@irineudev">
-    <img alt="youtube views" title="Visualizações no YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCzBF_gA-IRpXwPiJZ6kQvIA?color=%23FFD700&logo=eye&logoColor=white&style=for-the-badge&labelColor=DAA520"/>
-  </a>
-</p>
-
----
-
 ### 🧰 Tecnologias e Ferramentas
 
 <img align="left" alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="NestJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+<img align="left" alt="NestJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -33,7 +20,7 @@ Sou um desenvolvedor backend com foco em Inteligência Artificial, entregando ap
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="GCP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
