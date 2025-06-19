@@ -37,8 +37,8 @@ Sou um desenvolvedor backend com foco em Inteligência Artificial, entregando ap
 
 ### 📊 GitHub Stats
 
-![Irineu's GitHub stats](https://github-readme-stats.vercel.app/api?username=irineubrito&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irineubrito&layout=compact&theme=tokyonight)
+![Irineu's GitHub stats](https://github-readme-stats.vercel.app/api?username=irineub&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irineub&layout=compact&theme=tokyonight)
 
 ---
 
