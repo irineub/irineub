@@ -2,7 +2,7 @@
 
 **`Artificial Intelligence & Backend Engineer | Node.js | Python | Multi-Agent Systems`**
 
-Sou um desenvolvedor backend com foco em Inteligência Artificial, entregando aplicações web escaláveis para empresas nacionais e internacionais há mais de 3 anos. Minhas especialidades incluem Node.js, NestJS, Python, e ferramentas de IA como CrewAI, sistemas multiagentes e LangGraph. Atuo em ambientes ágeis e colaborativos, com forte experiência em cloud (AWS/GCP), banco de dados SQL/NoSQL, e soluções orientadas a dados e NLP.
+Sou um desenvolvedor backend com foco em Inteligência Artificial e com forte interesse em fintechs e setor financeiro, trabalho entregando aplicações web escaláveis para empresas nacionais e internacionais há mais de 3 anos. Minhas especialidades incluem Node.js, NestJS, Python, e ferramentas de IA como CrewAI, sistemas multiagentes e LangGraph. Atuo em ambientes ágeis e colaborativos, com forte experiência em cloud (AWS/GCP), banco de dados SQL/NoSQL, e soluções orientadas a dados e NLP.
 
 🎥 Também compartilho conteúdo técnico e dicas no meu canal do YouTube [@irineudev](https://www.youtube.com/@irineudev), onde abordo inteligência artificial, backend, interesse em fintechs e certificações e muito mais.
 
