@@ -7,6 +7,7 @@ Sou um desenvolvedor backend com foco em Inteligência Artificial e com forte in
 🎥 Também compartilho conteúdo técnico e dicas no meu canal do YouTube [@irineudev](https://www.youtube.com/@irineudev), onde abordo inteligência artificial, backend, interesse em fintechs e certificações e muito mais.
 
 📬 Fale comigo: [irineutech2025@gmail.com](mailto:irineutech2025@gmail.com) | [LinkedIn](https://www.linkedin.com/in/irineu-brito) | [Portfólio](https://irineubrito.tech)
+####  [Baixar Curriculo Atualizado](https://raw.githubusercontent.com/irineub/irineub/refs/heads/main/Curriculo%20Irineu%20Brito%20-%20IA.pdf)
 
 ### 🧰 Tecnologias e Ferramentas
 
