@@ -46,10 +46,6 @@ Sou um desenvolvedor fullstack com foco em Inteligência Artificial e com forte 
 </div>
 
 <div align="center">
-    <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=irineub&theme=github_dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irineub&theme=github_dark" alt="Most Commit Language"/>
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=irineub&theme=github_dark&utcOffset=-3" alt="Productive Time"/>
 </div>
