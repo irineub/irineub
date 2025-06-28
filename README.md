@@ -36,14 +36,32 @@ Sou um desenvolvedor fullstack com foco em Inteligência Artificial e com forte 
 ---
 
 ### 📊 GitHub Stats
+<div align="center">
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irineub&theme=github_dark" alt="Profile Details"/>
+</div>
 
-![Irineu's GitHub stats](https://github-readme-stats.vercel.app/api?username=irineub&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irineub&layout=compact&theme=tokyonight)
+<div align="center">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=irineub&theme=github_dark" alt="GitHub Stats Summary"/>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irineub&theme=github_dark" alt="Top Languages by Repo"/>
+</div>
+
+<div align="center">
+    <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=irineub&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=irineub&theme=github_dark" alt="Most Commit Language"/>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=irineub&theme=github_dark&utcOffset=-3" alt="Productive Time"/>
+</div>
+
+<div align="center">
+    <img width="98%" src="https://github-contributor-stats.vercel.app/api?username=irineub&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories"/>
+</div>
 
 ---
 
 ### 🏅 Certificações (seleção)
-
+- Multi-Agent Systems - crewAI
 - AWS Fundamentos  
 - DevOps Git  
 - Scrum Fundamentals Certified (SFC)  
