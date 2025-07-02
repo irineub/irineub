@@ -36,8 +36,10 @@ Sou um desenvolvedor fullstack com foco em Inteligência Artificial e com forte 
 ---
 ## 🧠 Open Source Contributions
 
+<img src="https://raw.githubusercontent.com/crewAIInc/crewAI/refs/heads/main/docs/images/crew_only_logo.png" width="250px" alt="Open source Multi-AI Agent orchestration framework">
 ### CrewAI – Multi-Agent Framework  
-[🔗 Projeto oficial](https://github.com/crewAIInc/crewAI)
+
+[Repositório](https://github.com/crewAIInc/crewAI)
 
 - Contribuidor ativo para a documentação oficial do projeto (inglês e pt-BR);
 - Pull Request aprovado com correção na documentação em inglês;
