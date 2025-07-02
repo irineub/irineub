@@ -34,6 +34,17 @@ Sou um desenvolvedor fullstack com foco em Inteligência Artificial e com forte 
 - **CS50’s Introduction to Computer Science** – HarvardX *(2025)*
 
 ---
+## 🧠 Open Source Contributions
+
+### CrewAI – Multi-Agent Framework  
+[🔗 Projeto oficial](https://github.com/crewAIInc/crewAI)
+
+- Contribuidor ativo para a documentação oficial do projeto (inglês e pt-BR);
+- Pull Request aprovado com correção na documentação em inglês;
+- PR aprovado com melhorias em **37 arquivos/paginas** da documentação pt-BR, incluindo tradução e exemplos de código aprimorados;
+- Participação nos workflows colaborativos via GitHub, com foco em revisão de código e interação com a equipe de mantenedores.
+
+---
 
 ### 📊 GitHub Stats
 <div align="center">
