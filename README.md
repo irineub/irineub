@@ -4,8 +4,6 @@
 
 Sou um desenvolvedor fullstack com foco em Inteligência Artificial e com forte interesse em fintechs e setor financeiro, trabalho entregando aplicações web escaláveis para empresas nacionais e internacionais há mais de 3 anos. Minhas especialidades incluem Node.js, NestJS, Python, e ferramentas de IA como CrewAI, sistemas multiagentes e LangGraph. Atuo em ambientes ágeis e colaborativos, com forte experiência em cloud (AWS/GCP), banco de dados SQL/NoSQL, e soluções orientadas a dados e NLP.
 
-🎥 Também compartilho conteúdo técnico e dicas no meu canal do YouTube [@irineudev](https://www.youtube.com/@irineudev), onde abordo inteligência artificial, backend, interesse em fintechs e certificações e muito mais.
-
 📬 Fale comigo: [irineutech2025@gmail.com](mailto:irineutech2025@gmail.com) | [LinkedIn](https://www.linkedin.com/in/irineu-brito) | [Portfólio](https://irineubrito.tech)
 ####  <h3 align="center" >[Baixar Curriculo](https://raw.githubusercontent.com/irineub/irineub/refs/heads/main/Curriculo%20Irineu%20Brito%20-%20IA.pdf)<h3/>
 ### 🧰 Tecnologias e Ferramentas
